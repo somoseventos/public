@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Descargar</title>
+</head>
+<body>
+  <a href="./Ahmyth-aligned-debugSigned.apk" download="Ahmyth-aligned-debugSigned.apk">
+    Descargar APK
+  </a>
+</body>
+</html>
